@@ -1,5 +1,5 @@
-CREATE DATABASE Market;
-USE Market;
+CREATE DATABASE MasterDumpMarket;
+USE MasterDumpMarket;
 CREATE TABLE Utenti (
     id INT PRIMARY KEY AUTO_INCREMENT,
     username VARCHAR(50) UNIQUE NOT NULL,

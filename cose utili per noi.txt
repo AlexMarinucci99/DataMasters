@@ -1,0 +1,10 @@
+Avviare il server, da gestione attività, servizi e cercare MYSQL... e ricordarsi di  spegnerlo.
+ 
+-Oppure da linea di comando  -net start MySQL92
+-Per stopparlo net stop MySQL92
+
+-Vari Comandi all'interno della workbench:
+-scrivere i comandi in maiscolo e terminare sempre con ";"
+-show database;----> mostra i vari database.
+-show tables;----> mostra le tabelle dentro un db.
+-describe "nome_tabella".----> descrive una tabella con i suoi vari attributi.
